@@ -126,6 +126,9 @@ section[id]{
 }
 .header-cont{
     height:100vh;
+    background: url(https://pbs.twimg.com/media/HCLNldKXwAAEOQr?format=jpg&name=large);
+    background-position: 0 81%;
+    background-size: cover;
 }
 .header-cont::after{
         content: "";
@@ -136,7 +139,7 @@ section[id]{
     height: 50px;
     background: linear-gradient(0deg, black, #ff000000);
 }
-.header-cont img{}
+
 
 /*-----menu-items-----*/
 .menu-title{
@@ -567,6 +570,15 @@ section[id]{
 
     .footer-section-cont{
         padding: 25px 40px 40px;
+    }
+
+}
+
+
+@media screen and (max-width: 930px){
+
+    .header-cont {
+        background-position: 43% 81%;
     }
 
 }
