@@ -1,0 +1,17 @@
+@font-face {
+    font-family: titulo;
+    src: url(titulo.ttf);
+}
+@font-face {
+    font-family: letra-normal;
+    src: url(letra-normal.ttf);
+}
+@font-face {
+    font-family: letra-bold;
+    src: url(letra-bold.ttf);
+}
+
+@font-face {
+    font-family: logo;
+    src: url(logo.ttf);
+}
