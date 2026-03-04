@@ -1,3 +1,31 @@
+/*-----online-----*/
+.subtitle-mp{
+    font-size: 13px !important;
+    padding: 0 50px !important;
+}
+
+.item-img-online {
+    border: 2px solid #ffe600;
+    background: #fff;
+    border-radius: 8px;
+}
+
+.item-title {
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    height: 40px;
+    display: -webkit-box;
+}
+
+/*-----online-----*/
+
+
+
+
+
+
+
 section[id]{
     scroll-margin-top: 45px ;
 }
