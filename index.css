@@ -159,7 +159,7 @@ section[id]{
     background-size: cover;
 }
 .header-cont::after{
-        content: "";
+    content: "";
     position: absolute;
     bottom: 0%;
     left: 0%;
@@ -217,7 +217,7 @@ section[id]{
 /*-----tienda-----*/
 .tienda{}
 .tienda-cont{
-    background: radial-gradient(#000000eb 69%, #040404), url(source/img/bg-tienda.jpeg);
+    background: radial-gradient(#000000eb 69%, #040404), url(https://pbs.twimg.com/media/HC2jA2gXMAAgMEv?format=jpg&name=4096x4096);
     background-size: cover;
     background-attachment: fixed;
     background-position: 0px 5%;
