@@ -164,3 +164,7 @@ body{
 .none{
     display: none;
 }
+
+.agotado{
+    display: none;
+}
